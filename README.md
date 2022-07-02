@@ -16,15 +16,15 @@
 
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## About Me :
-### I am a Full Stack Developer
-
-## :hammer_and_wrench: Languages and Tools :
+### About Me :
+#### I am a Full Stack Developer
+<br></br>
+### :hammer_and_wrench: Languages and Tools :
 
