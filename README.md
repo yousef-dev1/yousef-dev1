@@ -18,7 +18,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-##### I am a Full Stack Developer
+##### I am an IT professional 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
